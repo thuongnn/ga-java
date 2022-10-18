@@ -1,5 +1,12 @@
 # Example HelloWorld Application Changelog
 
+## [1.0.1](https://github.com/thuongnn/ga-java/compare/v1.0.0...v1.0.1) (2022-10-18)
+
+
+### Bug Fixes
+
+* **pencil:** update release output ([cf853c6](https://github.com/thuongnn/ga-java/commit/cf853c6dc54b2da3a16cbf97fd463b6a6845f30d))
+
 # 1.0.0 (2022-10-18)
 
 
