@@ -10,7 +10,7 @@
 		<!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.techmaster</groupId>
-	<artifactId>hello-world-example</artifactId>
+	<artifactId>hello-world-example-v2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>hello-world-example</name>
 	<description>Demo project for Spring Boot</description>
