@@ -1,0 +1,36 @@
+{
+  "branches": "master",
+  "repositoryUrl": "https://github.com/thuongnn/ga-java.git",
+  "debug": "false",
+  "plugins": [
+    "@semantic-release/commit-analyzer",
+    "@semantic-release/release-notes-generator",
+    [
+      "@semantic-release/changelog",
+      {
+        "changelogFile": "CHANGELOG.md",
+        "changelogTitle": "# Example HelloWorld Application Changelog"
+      }
+    ],
+    [
+      "@semantic-release/git",
+      {
+        "assets": [
+          "pom.xml",
+          "CHANGELOG.md"
+        ]
+      }
+    ],
+    [
+      "@semantic-release/github",
+      {
+        "assets": [
+          {
+            "name": "example-hello-world.jar",
+            "path": "target/*.jar"
+          }
+        ]
+      }
+    ]
+  ]
+}
