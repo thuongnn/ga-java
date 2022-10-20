@@ -1,5 +1,12 @@
 # Example HelloWorld Application Changelog
 
+## [1.0.3](https://github.com/thuongnn/ga-java/compare/v1.0.2...v1.0.3) (2022-10-20)
+
+
+### Performance Improvements
+
+* **pencil:** remove graphiteWidth option ([f4fb1e6](https://github.com/thuongnn/ga-java/commit/f4fb1e6692c0773890a278de0cdf862108df5d38))
+
 ## [1.0.2](https://github.com/thuongnn/ga-java/compare/v1.0.1...v1.0.2) (2022-10-18)
 
 
