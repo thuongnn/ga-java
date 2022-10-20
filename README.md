@@ -4,6 +4,8 @@ Example containerized java spring boot project
 Click here to open generate page: https://start.spring.io
 ![Generate](./images/task1-generate.png)
 
+
+
 ### Step 2. Upate hello world code
 Edit file in `src/main/com/techmaster/helloworldexample`
 ```java
